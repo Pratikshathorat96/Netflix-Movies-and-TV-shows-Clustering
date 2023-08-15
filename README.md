@@ -35,4 +35,3 @@ Integrating this dataset with other external datasets such as IMDB ratings, rott
 11. listed_in : Genere
 
 12. description: The Summary description
-13. 
