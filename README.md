@@ -39,3 +39,17 @@ Integrating this dataset with other external datasets such as IMDB ratings, rott
 11. listed_in : Genere
 
 12. description: The Summary description
+
+# Conclusion 
+
+* It is interesting to note that the majority of the content available on Netflix consists of movies. However, in recent years, the platform has been focusing more on TV shows.
+
+* Most of these shows are released either at the end or the beginning of the year.
+
+* The United States and India are among the top five countries that produce all of the available content on the platform. Additionally, out of the top ten actors with the maximum content, six of them are from India.
+
+* When it comes to content ratings, TV-MA tops the charts, indicating that mature content is more popular on Netflix.
+
+* The value of k=15 was found to be optimal for clustering the data, and it was used to group the content into ten distinct clusters.
+
+* Using this data, a Content based recommender system was created using cosine similarity, which provided recommendations for Movies and TV shows.
